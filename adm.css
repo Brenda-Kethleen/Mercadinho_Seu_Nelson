@@ -1,0 +1,14 @@
+body {
+    background-color: #ffffff;
+}
+
+#listaProdutos img {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.flexbox2 {
+    display: flex;
+    justify-content: flex-end;
+}

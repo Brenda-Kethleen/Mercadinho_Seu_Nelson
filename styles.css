@@ -1,0 +1,33 @@
+#titulo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#produtos{
+    text-align: center;
+}
+
+body{
+    /*cor do fundo da tela*/
+     background-color: #ffffff;
+ }
+
+/*Flexbox para organizar dentro dos containers*/
+.flexbox2{
+  display: flex;
+
+  justify-content: flex-end;
+
+}
+
+#listaProdutos img {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.flexbox2 {
+    display: flex;
+    justify-content: flex-end;
+}
